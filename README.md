@@ -1,7 +1,6 @@
 # Sales-Dashboard-Database
-
-# Design Document
-# By Abul Hasan
+Design Document
+By Abul Hasan
 
 Video overview: <https://youtu.be/-o-T1Et4cK0>
 
