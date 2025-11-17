@@ -23,6 +23,7 @@ DROP VIEW IF EXISTS 'product_performance';
 -- Cleaning  up unused space
 VACUUM;
 
+-- Creating any required tables, views and indexes.
 -- Represents any customers with the company
 CREATE TABLE "customers" (
     "customer_id" INTEGER PRIMARY KEY AUTOINCREMENT,
