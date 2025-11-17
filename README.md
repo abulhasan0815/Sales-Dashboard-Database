@@ -1,8 +1,10 @@
-# Sales-Dashboard-Database
-<b>Design Document<b>
-<b>By Abul Hasan<b>
+<h1 align="center">Sales Dashboard Database</h1>
 
-Video overview: <https://youtu.be/-o-T1Et4cK0>
+<h2>
+  Design Document
+</h2>
+
+## Video overview: <https://youtu.be/-o-T1Et4cK0>
 
 ## Scope
 
