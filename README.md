@@ -1,4 +1,4 @@
-<h1 align="center">Sales Dashboard Database</h1>
+<h1 align="center">Sales Dashboard Database SQL Project</h1>
 
 <h2>
   Design Document
@@ -13,7 +13,7 @@ The purpose of this database is to track sales performance, customer interaction
 * Customers: Includes basic customer information and industrial segmentation
 * Sales_Team: Includes basic team member information and role
 * Sales_Targets: Which involves information of targets, time period to acheive them and team member assigned for it.
-* Orders: Includes basic information fopr order, its status, payment and to whom it belongs to.
+* Orders: Includes basic information for order, its status, payment and to whom it belongs to.
 * Order_Details: includes order details with quantity, prices and discounts if any.
 * Products: Deals with products informations, its categories/ subcategories and description.
 
